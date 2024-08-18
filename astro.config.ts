@@ -138,7 +138,7 @@ export default defineConfig({
 					link: "blog/tags/شبهات-الخوارج"
 				  }]
 				}]
-			  }]
+			  }],
 			components: {
 				Head: './src/components/Head.astro',
 				Search: './src/components/Search.astro',
