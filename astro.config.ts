@@ -65,8 +65,8 @@ export default defineConfig({
 				switcherStyle: "horizontalList"
 			  }}),
 			],
-			title: "سَنَابِلُ الْفِرْدَوْسِ",
-			description: "المنهج السلفي بأسلوب سلس ومبسط",
+			title: 'موقعي',
+			description: "وصف الموقع",
 			credits: true,
 			lastUpdated: true,
 			editLink: {
@@ -91,51 +91,41 @@ export default defineConfig({
 			  },
 			customCss: ["./src/styles/custom.css", "./src/fonts/font-face.css"],
 			sidebar: [{
-				label: "شُرُوحُ الْكُتُبِ",
+				label: "القائمة", 
 				collapsed: true,
 				items: [{
-				  label: "اللُّغَةُ الْعَرَبِيَّةُ",
+				  label: "القسم 1",
 				  collapsed: true,
 				  autogenerate: {
-					directory: "arabic"
+					directory: "dir1"
 				  }
-				}, {
-				  label: "الْقُرْآنُ الْكَرِيمُ",
-				  collapsed: true,
+				}, 
+				 {
+					label: "القسم 2",
+					collapsed: true,
 				  autogenerate: {
-					directory: "quran"
+					directory: "dir2"
 				  }
-				}, {
-				  label: "الْعَقِيدَةُ",
-				  collapsed: true,
-				  autogenerate: {
-					directory: "aqida"
-				  }
-				}, {
-				  label: "الرَّقَائِقُ وَالْآدَابُ",
-				  collapsed: true,
-				  autogenerate: {
-					directory: "raqaiq"
-				  }
-				}]
+				},
+			]
 			  }, {
-				label: "الْمُدَوَّنَةُ",
+				label: "المدونة",
 				collapsed: true,
 				items: [{
-				  label: "كُلُّ الْمَقَالَاتِ",
+				  label: "كل المقالات",
 				  link: "/blog"
 				}, {
-				  label: "أَحْدَثُ الْمَقَالَاتِ",
+				  label: "أحدث المقالات",
 				  collapsed: true,
 				  autogenerate: {
 					directory: "blog"
 				  }
 				}, {
-				  label: "الْأَقْسَامُ",
+				  label: "الأقسام",
 				  collapsed: true,
 				  items: [{
-					label: "شُبُهَاتُ الْخَوَارِجِ",
-					link: "blog/tags/شبهات-الخوارج"
+					label: "القسم الأول",
+					link: "blog/tags/القسم-الأول"
 				  }]
 				}]
 			  }],

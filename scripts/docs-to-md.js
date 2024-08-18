@@ -51,7 +51,7 @@ const arabic = [
      for (const file of aqida) {
       await fetchGoogleDocsFiles([file]);
     }
-    chdir('../blog');
+    chdir('../blog'); 
      for (const file of blog) {
       await fetchGoogleDocsFiles([file]);
     }
