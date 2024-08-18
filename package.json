@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sanabel-al-firdaws",
+=======
+  "name": "docs-n-blog",
+>>>>>>> 623c7702c1f06afa104fa9d6bd62bd1a37c6f7ad
   "type": "module",
   "version": "0.0.1",
   "scripts": {

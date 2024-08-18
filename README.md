@@ -7,7 +7,10 @@ npm create astro@latest -- --template starlight-pwa
 ```
 
  
+<<<<<<< HEAD
 
+=======
+>>>>>>> 623c7702c1f06afa104fa9d6bd62bd1a37c6f7ad
 # Features 
 
 1. Works Fully Offline and updates itself when the user is connected to the network
