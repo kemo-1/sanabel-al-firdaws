@@ -1,5 +1,5 @@
 # File: .github/workflows/template-sync.yml
-
+name: Sync Template
 on:
   # manual trigger
   workflow_dispatch:
