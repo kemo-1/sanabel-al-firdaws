@@ -151,7 +151,7 @@ export default defineConfig({
 				Sidebar: "./src/components/starlight/Sidebar.astro",
 				LastUpdated: "./src/components/starlight/LastUpdated.astro",
 				SiteTitle: "./src/components/starlight/SiteTitle.astro",
-				// TableOfContents: "./src/components/starlight/TableOfContents.astro"
+				TableOfContents: "./src/components/starlight/TableOfContents.astro"
 			}
 		}),
 		AstroPWA({
