@@ -1,25 +1,7 @@
-# Starlight Pwa Starter Kit: Basics
+# سنابل الفردوس 
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+موقع يهتم بنشر العلم النافع على ضوء الكتاب و السنة بفهم سلف الأمة 
 
-```
-npm create astro@latest -- --template starlight-pwa
-```
+تم بنائه بواسطة أداة بناء المواقع ستارلايت
 
- 
-<<<<<<< HEAD
-
-=======
->>>>>>> 623c7702c1f06afa104fa9d6bd62bd1a37c6f7ad
-# Features 
-
-1. Works Fully Offline and updates itself when the user is connected to the network
-
-1. can be installed as a pwa on any device
-   
-1. pagefind search that can work offline
-
-1. can be turned into an app and shipped to google play windows store or apple store
-
-
-
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/large.svg)](https://starlight.astro.build)
