@@ -17,6 +17,7 @@ const arabic = [
    '17jzutUJX4CqVkREE2eOsd0DBrPiTUmcczbHam0cQA0U:al-sunnah-imam-ahmed.mdx'
  ];
  const blog = [
+   '1RsN0pOVPzjWbZaCQYWZKwLA3znQ6S9belC8Fu1Gn2yc:al-mawlid.mdx'،
    '15azTT_OD1Tl1Gth-IrujKp2ILdcPkAXdTtPZZ0AsQsE:al-inkar-al-alani.mdx',
    '1rmsrXsVQLce98QUGagKuL3mterFxPV1QHZzpPU5yUuM:al-hakim-al-motaghalib.mdx',
    '1F087SRbpwDUfmWPNs4yA54oEpqZkfdUzxbahZkDEiBY:al-hokm-bil-qawanin.mdx'
