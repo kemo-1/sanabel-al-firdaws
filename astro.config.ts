@@ -23,7 +23,8 @@ const components = readdirSync(componentDir);
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://sanabel-al-firdaws.github.io",
+	site: "https://kemo-1.github.io",
+	base: "sanabel-al-firdaws",
 	markdown: {
 				gfm: false,
 				remarkPlugins: [remarkCustomHeaderId, remarkMark],
