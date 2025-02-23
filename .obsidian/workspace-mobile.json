@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3b99bea417cf0376",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9d5a39d3adb960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a27b9b80b3208eab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae4b25ebd36a25e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43cd9905eba0be5b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f6b83f6efd4081bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9285a9181ed21eb0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "35e04a7e855bb1a4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "320d48715b9ef75e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "025a7d152f13a378",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1b792789b377bbf1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3a9522496d72ec87",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a27b9b80b3208eab",
+  "lastOpenFiles": [
+    "webmanifest.json",
+    "tsconfig.json",
+    "src/styles/custom.css",
+    "src/fonts/font-face.css",
+    "src/fonts/ScheherazadeNew-SemiBold.woff2",
+    "src/fonts/ScheherazadeNew-SemiBold.woff",
+    "src/fonts/ScheherazadeNew-Regular.woff2",
+    "src/fonts/ScheherazadeNew-Regular.woff",
+    "src/fonts/ScheherazadeNew-Medium.woff2",
+    "src/fonts/ScheherazadeNew-Medium.woff",
+    "src/fonts/ScheherazadeNew-Bold.woff2",
+    "src/assets/houston.webp",
+    "public/pwa-64x64.png",
+    "public/pwa-512x512.png",
+    "public/pwa-192x192.png",
+    "public/profile.png",
+    "public/maskable-icon-512x512.png",
+    "public/favicon.svg",
+    "public/apple-touch-icon-180x180.png",
+    "packages/starlight-view-modes/README.md",
+    "packages/remark-custom-header-id/readme.md",
+    "README.md"
+  ]
+}
