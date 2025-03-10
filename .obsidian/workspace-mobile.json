@@ -11,10 +11,14 @@
             "id": "a27b9b80b3208eab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/blog/al-hokm-bil-qawanin.mdx",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "al-hokm-bil-qawanin"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "src/content/docs/blog/al-hokm-bil-qawanin.mdx",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,6 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "src/content/docs/blog/al-hokm-bil-qawanin.mdx",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -134,7 +140,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,11 +150,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "edit-mdx:New .mdx file": false
     }
   },
   "active": "a27b9b80b3208eab",
   "lastOpenFiles": [
+    "src/content/docs/intro.mdx",
+    "src/content/docs/blog/al-hokm-bil-qawanin.mdx",
     "webmanifest.json",
     "tsconfig.json",
     "src/styles/custom.css",
@@ -158,8 +167,6 @@
     "src/fonts/ScheherazadeNew-Regular.woff2",
     "src/fonts/ScheherazadeNew-Regular.woff",
     "src/fonts/ScheherazadeNew-Medium.woff2",
-    "src/fonts/ScheherazadeNew-Medium.woff",
-    "src/fonts/ScheherazadeNew-Bold.woff2",
     "src/assets/houston.webp",
     "public/pwa-64x64.png",
     "public/pwa-512x512.png",
